@@ -1,6 +1,6 @@
 # Simple_Blog_Application
 
-# This file helps you to implment and setup the environment to run this blog web application.
+#00 This file helps you to implment and setup the environment to run this blog web application.
 
 #1. Download the .zip file in your system.
 #2. Extract this files data at convinient location.
@@ -14,4 +14,4 @@
 #10. You can see the detail information about blog by clicking on blogs view more button.
 #11. At blog details page you will see your own blog also on that blogs have the buttons to edit the blog and delete the blog.
 
-# I used Python, Django and MySQL database in this application
+#00 I used Python, Django and MySQL database in this application
